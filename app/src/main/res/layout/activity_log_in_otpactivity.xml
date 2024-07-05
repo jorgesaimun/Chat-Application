@@ -12,7 +12,6 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
         android:layout_weight="25"
         android:gravity="center">
 
@@ -135,4 +134,6 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="Resent OTP again" />
+
+
 </LinearLayout>
