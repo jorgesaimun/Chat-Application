@@ -95,7 +95,9 @@
             android:background="@drawable/et_rounded_corner"
             android:elevation="10dp"
             android:gravity="center"
+            android:textColorHint="@color/gray"
             android:hint="User Name"
+            android:textColor="@color/black"
             android:inputType="textPersonName"
             android:padding="10dp" />
     </LinearLayout>

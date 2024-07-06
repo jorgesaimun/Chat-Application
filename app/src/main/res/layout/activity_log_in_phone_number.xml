@@ -101,7 +101,8 @@
             android:id="@+id/et_PhoneNumberId"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-
+            android:textColor="@color/black"
+            android:textColorHint="@color/gray"
             android:background="@drawable/et_rounded_corner"
             android:elevation="10dp"
             android:gravity="center"

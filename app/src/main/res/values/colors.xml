@@ -10,5 +10,7 @@
     <color name="gray">#595A5A</color>
     <color name="off_white">#FDFDFD</color>
 
+    <color name="chat_color_sender">#1976D2</color>
+    <color name="chat_color_receiver">#689F38</color>
 
 </resources>

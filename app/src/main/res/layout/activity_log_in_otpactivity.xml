@@ -97,6 +97,8 @@
             android:elevation="10dp"
             android:gravity="center"
             android:hint="Your OTP"
+            android:textColorHint="@color/gray"
+            android:textColor="@color/black"
             android:inputType="number"
             android:maxLength="6"
             android:padding="10dp" />
@@ -129,6 +131,7 @@
     </LinearLayout>
 
     <TextView
+        android:textColor="@color/gray"
         android:id="@+id/resentOTPID"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
